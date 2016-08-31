@@ -1,4 +1,1 @@
-# Calculator
-Sample Calculator Project
-
-This is not a Trick
+You might want to place this folder on your desktop
